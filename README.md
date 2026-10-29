@@ -4,7 +4,7 @@ A small web app that converts a number between metric and imperial units: length
 
 Solo project from the [Scrimba Fullstack Developer Path](https://scrimba.com/fullstack-path-c0fullstack) (*JavaScript Fundamentals* module), built from a Figma design provided by Scrimba.
 
-**🌐 Live demo:** [your-link.netlify.app](https://your-link.netlify.app)
+**🌐 Live demo:** [Scrimba Unit Converter](https://scrimconverter.netlify.app)
 
 ![Screenshot of the Unit Converter](./images/screenshot.png)
 
