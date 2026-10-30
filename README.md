@@ -36,7 +36,6 @@ Solo project from the [Scrimba Fullstack Developer Path](https://scrimba.com/ful
 - Rendering results with template strings
 - Rounding numbers with `toFixed()`
 - Storing fixed values in `const` variables
-- Turning a Figma design into HTML and CSS, then making it responsive with `max-width`
 
 ## 🚀 Run it locally
 
